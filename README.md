@@ -1,0 +1,1 @@
+A Chess Tournament Crawler which automatically searches the US Chess Website for tournaments to play given a set of parameters, including zip code, location, state, and others. It has a GUI to input these parameters to, as well as a space for entering one's email adress to have the CSV file mailed. It also provides a download option.
