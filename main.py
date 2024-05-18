@@ -59,5 +59,7 @@ b1.grid(row=20, column=1)
 b1 = Button(window, text="Send Email", width=10, height=1, command=send_email)
 b1.grid(row=25, column=1)
 
+b10 = Button(window, text="Create ICS File", width=10, height=1, command=backend.createICSEvent)
+b10.grid(row=40, column=1)
 
 window.mainloop()
